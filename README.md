@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJ-Professor-K
 - 👀 I’m interested in making the greatest space for Rudies out there!
 - 🌱 I’m currently learning how to do any of this!
-- 💞️ I’m looking to collaborate on a prject I started!
+- 💞️ I’m looking to collaborate on a project I started!
 - 📫 How to reach me? You know where to find me!
 
 <!---
